@@ -1,7 +1,7 @@
 ## House-Price-Prediction
 predicting the house price
 
-# softwate and Tools Requirements
+# softwate and Tools RERUIREMENTS
 1. [Github Account](https://github.com)
 2. [HerokoAccount](https://heroku.com)
 3. [VSCodeIde](https://code.visualstudio.com/)
