@@ -1,6 +1,5 @@
-Flask
-sklearn
+flask
 pandas
 numpy
 matplotlib
-guicorn
+gunicorn
